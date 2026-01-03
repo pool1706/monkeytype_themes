@@ -10,6 +10,8 @@ Here’s how the theme looks:
 ![Theme Preview](trial1img2.png)
 ![Theme Preview](trail1.png)
 
+### Json file for the above theme : theme1.json
+
 ---
 
 

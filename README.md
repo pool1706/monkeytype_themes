@@ -7,6 +7,7 @@
 ### Preview
 Here’s how the theme looks:
 
+![Theme Preview](trail1img2.png)
 ![Theme Preview](trail1.png)
 
 ---

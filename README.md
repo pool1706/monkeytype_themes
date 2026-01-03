@@ -2,7 +2,7 @@
 
 ---
 
-## Serika Dark (First Theme)
+## 1) the blue glow - [theme1.json](theme1.json)
 
 ### Preview
 Here’s how the theme looks:

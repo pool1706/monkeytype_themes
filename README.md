@@ -12,24 +12,12 @@ Here’s how the theme looks:
 ---
 
 
-### How to Use
+### HOW TO USE
 
-#### Option 1 — Import via GitHub URL
-1. Copy this URL:  
-https://raw.githubusercontent.com/pool1706/monkeytype_themes/main/theme1.json
-2. Open [Monkeytype](https://monkeytype.com/) → **Settings → Theme → Import**
-3. Paste the URL and press **Import**
-4. The theme will load, including the background image automatically  
-
-> The background is already linked inside the JSON through GitHub, so you don’t need to download it separately.
-
----
-
-#### Option 2 — Download the JSON and import manually
-1. Download `theme1.json` from this repository.
-2. Open Monkeytype → **Settings → Theme → Import → Choose File**
-3. Select the JSON file
-4. The theme, including the background, will load automatically  
+#### Option 1 — Download the JSON and import manually
+1. **Copy the jason file code** from the theme.jason file for the theme you wish to import
+2. Open Monkeytype → **Settings → Theme → Import → then PASTE THE CODE**
+3. The theme, including the background, will load automatically  
 
 > Again, the background is already linked in the JSON. No extra download required.
 

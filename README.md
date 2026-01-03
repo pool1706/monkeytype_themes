@@ -15,7 +15,15 @@ Here’s how the theme looks:
 
 ---
 
+## 2) matrix - [theme1.json](theme1.json)
 
+### Preview
+Here’s how the theme looks:
+
+![Theme Preview](trial1img2.png)
+![Theme Preview](trail1.png)
+
+---
 ### HOW TO USE
 
 #### Copy the JSON and import manually

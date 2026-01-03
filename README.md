@@ -16,7 +16,7 @@ Here’s how the theme looks:
 
 #### Option 1 — Download the JSON and import manually
 1. **Copy the jason file code** from the theme.jason file for the theme you wish to import
-2. Open Monkeytype → **Settings → Theme → Import → then PASTE THE CODE**
+2. Open Monkeytype → **Settings → Danger zone → Import or export the settings as JSON → Import → then PASTE THE CODE**
 3. The theme, including the background, will load automatically  
 
 > Again, the background is already linked in the JSON. No extra download required.

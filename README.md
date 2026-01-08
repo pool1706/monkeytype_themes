@@ -25,15 +25,15 @@ Here’s how the theme looks:
 
 ---
 
-## 2) matrix - [matrixtheme.json](matrixtheme.json)
+## 2) Totoro - [totoro.json](totoro.json)
 
 ### Preview
 Here’s how the theme looks:
 
-![Theme Preview](mtrix1.png)
-![Theme Preview](matric2.png)
+![Theme Preview](totorosample1.jpg)
+![Theme Preview](totorosample2.jpg)
 
-### JSON file for the above theme: [matrixtheme.json](matrixtheme.json)
+### JSON file for the above theme: [totoro.json](totoro.json)
 
 ---
 

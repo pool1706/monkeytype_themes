@@ -9,6 +9,7 @@
 3. The theme, including the background, will load automatically
 
 **Note:** If you already have a background image set in Monkeytype, remove it before importing this theme.
+          theme -> custom background -> remove image
 
 ---
 

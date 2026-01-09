@@ -42,8 +42,8 @@ Here’s how the theme looks:
 ### Preview
 Here’s how the theme looks:
 
-![Theme Preview](kuromisample1.jpg)
-![Theme Preview](kuromi2sample.jpg)
+![Theme Preview](kuromisample1.png)
+![Theme Preview](kuromi2sample.png)
 
 ### JSON file for the above theme: [kuromi.json](kuromi.json)
 

@@ -48,5 +48,16 @@ Here’s how the theme looks:
 ### JSON file for the above theme: [kuromi.json](kuromi.json)
 
 ---
+## 3) Terminal G - [terminal.json](terminal.json)
+
+### Preview
+Here’s how the theme looks:
+
+![Theme Preview](terminal1.png)
+![Theme Preview](terminal2.png)
+
+### JSON file for the above theme: [terminal.json](terminal.json)
+
+---
 ### Author
 Sujnan P

@@ -37,6 +37,16 @@ Here’s how the theme looks:
 ### JSON file for the above theme: [totoro.json](totoro.json)
 
 ---
+## 3) Kuromi - [kuromi.json](kuromi.json)
 
+### Preview
+Here’s how the theme looks:
+
+![Theme Preview](kuromisample1.jpg)
+![Theme Preview](kuromi2sample.jpg)
+
+### JSON file for the above theme: [kuromi.json](kuromi.json)
+
+---
 ### Author
 Sujnan P
